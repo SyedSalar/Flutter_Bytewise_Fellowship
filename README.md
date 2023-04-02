@@ -13,3 +13,8 @@ While working on Providers I worked upon three examples from the provided youtub
 
 ## Rest Apis
 In this I learnt What is Rest Apis, How they work? What is JSON Format. I learnt about the tool Postman and worked upon the Package HTTP in flutter by using GET and POST apis. 
+
+
+# Week 3 Tasks
+Week 3 was all about Firebase and Packages. So I developed a functioning app. I have used firebase firestore and storage in multiple apps. But I will present my Pest Controlling App. 
+I developed an application from scratch using Flutter Dart and integrated it with Firebase Firestore. The application had features like OTP login and notifier, which enabled users to login securely and receive notifications from the app. I used Flutter Dart programming language to develop the application and integrated Firebase's authentication and cloud database services. This gave me hands-on experience with application development and integration with a cloud database.
