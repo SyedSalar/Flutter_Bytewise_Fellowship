@@ -18,3 +18,7 @@ In this I learnt What is Rest Apis, How they work? What is JSON Format. I learnt
 # Week 3 Tasks
 Week 3 was all about Firebase and Packages. So I developed a functioning app. I have used firebase firestore and storage in multiple apps. But I will present my Pest Controlling App. 
 I developed an application from scratch using Flutter Dart and integrated it with Firebase Firestore. The application had features like OTP login and notifier, which enabled users to login securely and receive notifications from the app. I used Flutter Dart programming language to develop the application and integrated Firebase's authentication and cloud database services. This gave me hands-on experience with application development and integration with a cloud database.
+
+
+# Week 4,5,6,7 Tasks
+This was all about merging all the tasks into big single project. So Yes I have made a blood Donation Application following MVVM architecture and it supports both IOS and Android Platforms. User can login and signup through User Friendly Interface and can schedule,manage and check history of his appointments of blood donation!
